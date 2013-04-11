@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: MyString
+  genre: MyString
+  poster_url: MyString
+  rating: 9.99
+  description: MyText
+  release_date: 2013-04-11
+  trailer_url: MyString
+  imdb_id: 1
+
+two:
+  title: MyString
+  genre: MyString
+  poster_url: MyString
+  rating: 9.99
+  description: MyText
+  release_date: 2013-04-11
+  trailer_url: MyString
+  imdb_id: 1
